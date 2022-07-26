@@ -116,4 +116,5 @@ textarea {
     font-size: large;
     color:white;
     background-color: #37af65;
+    cursor: pointer;
 }
